@@ -20,10 +20,11 @@ Project is created with:
 * Juptyer Notebook 6.0.3
 
 ## Setup
-To run the code live, start the html file in a gitbash window. The other files can viewed in Visual Code. This can also be ran using GitHub Pages found at this link: https://aliciaaperez.github.io/UFO_Data_Website_Formatting_with_JavaScript/
+To run the code please follow either link: 
+
 
 ## Data Sources 
-The data for the UFO sightings is in a javaScript labled data.js.
+https://www.citibikenyc.com/system-data
 
 ## Overview
-Upon opening the html index page for this code, you will see all the data is supplied on the main page. There are filter options on the left which can be used to filter the data.
+
